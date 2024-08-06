@@ -1,0 +1,6 @@
+recipes:
+  - name : onnx-1.13
+    path : onnx-1.13/recipe
+
+  - name : onnx-1.16
+    path : onnx-1.16/recipe
